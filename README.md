@@ -1,2 +1,2 @@
-# PrepCurse.Henry
-Repositorio de prueba de henry
+Martin Garnica
+Este proyecto es una prueba para copiarlo
